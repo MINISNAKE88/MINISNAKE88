@@ -8,7 +8,6 @@
 
 - 💻 Actualmente profundizando en **C# Avanzado** (Delegados, Eventos y Lambdas).
 - 🛠️ Me interesa la **optimización de sistemas** y el rendimiento en entornos Windows.
-- 🏋️‍♂️ Fuera de la pantalla, dedico mi tiempo al entrenamiento de **calistenia** y fuerza de agarre.
 - 🎮 Fan de los retos tácticos en **Roguelikes** y la exploración en **Metroidvanias**.
 
 ---
@@ -35,7 +34,6 @@
 
 ### 🎯 Objetivos para 2026
 - [ ] Dominar el desarrollo de aplicaciones distribuidas en .NET.
-- [ ] Completar el desafío del 112% en Hollow Knight ⚔️.
 - [ ] Contribuir a proyectos Open Source de herramientas de optimización.
 
 ---
