@@ -45,9 +45,13 @@
 ---
 
 ### 📬 Conectemos
-<p align="left">
-<a href="mailto:ivanverduzcoholguin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/ivan-verduzco" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="left">### 📬 Conectemos
+<a href="mailto:ivanverduzcoholguin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
