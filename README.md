@@ -1,16 +1,54 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋 
 
-<!--
-**MINISNAKE88/MINISNAKE88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Perfil%20Visto&color=A8B9CC&style=flat" alt="vistas" />
+</p>
 
-Here are some ideas to get you started:
+> **Estudiante de Programación** enfocado en el desarrollo de software robusto y eficiente. Me apasiona desglosar conceptos complejos y optimizar cada línea de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+
+- 💻 Actualmente profundizando en **C# Avanzado** (Delegados, Eventos y Lambdas).
+- 🛠️ Me interesa la **optimización de sistemas** y el rendimiento en entornos Windows.
+- 🏋️‍♂️ Fuera de la pantalla, dedico mi tiempo al entrenamiento de **calistenia** y fuerza de agarre.
+- 🎮 Fan de los retos tácticos en **Roguelikes** y la exploración en **Metroidvanias**.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
+</p>
+
+---
+
+### 📊 Mis Estadísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=nord" />
+</p>
+
+---
+
+### 🎯 Objetivos para 2026
+- [ ] Dominar el desarrollo de aplicaciones distribuidas en .NET.
+- [ ] Completar el desafío del 112% en Hollow Knight ⚔️.
+- [ ] Contribuir a proyectos Open Source de herramientas de optimización.
+
+---
+
+### 📬 Conectemos
+<p align="left">
+<a href="mailto:tu-correo@ejemplo.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+*“La disciplina es el puente entre las metas y los logros.”*
