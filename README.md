@@ -1,29 +1,37 @@
-# ¡Hola! Soy MINISNAKE88 👋 
+# Hi there! I'm MINISNAKE88 👋 
 
-> **Estudiante de Programación** enfocado en el desarrollo de software robusto y eficiente. Me apasiona desglosar conceptos complejos y optimizar cada línea de código.
+> **Dedicated Programming Student** focused on building robust and efficient software. I am passionate about breaking down complex concepts and optimizing every line of code.
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-- 💻 Actualmente profundizando en **C# Avanzado** (Delegados, Eventos y Lambdas).
-- 🛠️ Me interesa la **optimización de sistemas** y el rendimiento en entornos Windows.
-- 🎮 Fan de los retos tácticos en **Roguelikes** y la exploración en **Metroidvanias**.
+- 💻 Currently diving deep into **Advanced C#** (Delegates, Events, and Lambdas).
+- 🛠️ Interested in **system optimization** and performance within Windows environments.
+- 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="45" height="45"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
-### 📊 Mis Estadísticas
+### 📊 My Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" />
@@ -32,13 +40,14 @@
 
 ---
 
-### 🎯 Objetivos para 2026
-- [ ] Dominar el desarrollo de aplicaciones distribuidas en .NET.
-- [ ] Contribuir a proyectos Open Source de herramientas de optimización.
+### 🎯 Goals for 2026
+- [ ] Master distributed application development in .NET.
+- [ ] Contribute to Open Source system optimization tools.
 
 ---
 
-### 📬 Conectemos
+### 📬 Connect with Me
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+---
