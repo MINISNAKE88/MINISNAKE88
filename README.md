@@ -12,7 +12,6 @@
 
 - 💻 Actualmente profundizando en **C# Avanzado** (Delegados, Eventos y Lambdas).
 - 🛠️ Me interesa la **optimización de sistemas** y el rendimiento en entornos Windows.
-- 🏋️‍♂️ Fuera de la pantalla, dedico mi tiempo al entrenamiento de **calistenia** y fuerza de agarre.
 - 🎮 Fan de los retos tácticos en **Roguelikes** y la exploración en **Metroidvanias**.
 
 ---
@@ -31,7 +30,7 @@
 ### 📊 Mis Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
 </p>
 
@@ -39,8 +38,8 @@
 
 ### 🎯 Objetivos para 2026
 - [ ] Dominar el desarrollo de aplicaciones distribuidas en .NET.
-- [ ] Completar el desafío del 112% en Hollow Knight ⚔️.
 - [ ] Contribuir a proyectos Open Source de herramientas de optimización.
+- [ ] Aprendizaje de el idioma Aleman.
 
 ---
 
@@ -53,5 +52,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
----
-*“La disciplina es el puente entre las metas y los logros.”*
+
