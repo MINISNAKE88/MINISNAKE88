@@ -1,9 +1,5 @@
 # ¡Hola! Soy MINISNAKE88 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MINISNAKE88&label=Perfil%20Visto&color=A8B9CC&style=flat" alt="vistas" />
-</p>
-
 > **Estudiante de Programación** enfocado en el desarrollo de software robusto y eficiente. Me apasiona desglosar conceptos complejos y optimizar cada línea de código.
 
 ---
@@ -12,6 +8,7 @@
 
 - 💻 Actualmente profundizando en **C# Avanzado** (Delegados, Eventos y Lambdas).
 - 🛠️ Me interesa la **optimización de sistemas** y el rendimiento en entornos Windows.
+- 🏋️‍♂️ Fuera de la pantalla, dedico mi tiempo al entrenamiento de **calistenia** y fuerza de agarre.
 - 🎮 Fan de los retos tácticos en **Roguelikes** y la exploración en **Metroidvanias**.
 
 ---
@@ -38,18 +35,12 @@
 
 ### 🎯 Objetivos para 2026
 - [ ] Dominar el desarrollo de aplicaciones distribuidas en .NET.
+- [ ] Completar el desafío del 112% en Hollow Knight ⚔️.
 - [ ] Contribuir a proyectos Open Source de herramientas de optimización.
-- [ ] Aprendizaje de el idioma Aleman.
 
 ---
 
 ### 📬 Conectemos
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
