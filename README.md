@@ -1,7 +1,7 @@
-# ¡Hola! Soy MINISNAKE88👋 
+# ¡Hola! Soy MINISNAKE88 👋 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Perfil%20Visto&color=A8B9CC&style=flat" alt="vistas" />
+  <img src="https://komarev.com/ghpvc/?username=MINISNAKE88&label=Perfil%20Visto&color=A8B9CC&style=flat" alt="vistas" />
 </p>
 
 > **Estudiante de Programación** enfocado en el desarrollo de software robusto y eficiente. Me apasiona desglosar conceptos complejos y optimizar cada línea de código.
@@ -47,7 +47,7 @@
 ### 📬 Conectemos
 <p align="left">
 <a href="mailto:ivanverduzcoholguin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/Ivan Verduzco" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/ivan-verduzco" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
