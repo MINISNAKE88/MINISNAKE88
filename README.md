@@ -46,8 +46,12 @@
 
 ### 📬 Conectemos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanverduzcoholguin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-verduzco-7aaa84347)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 *“La disciplina es el puente entre las metas y los logros.”*
