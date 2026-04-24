@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋 
+# ¡Hola! Soy MINISNAKE88👋 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Perfil%20Visto&color=A8B9CC&style=flat" alt="vistas" />
@@ -31,8 +31,8 @@
 ### 📊 Mis Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 
 ### 📬 Conectemos
 <p align="left">
-<a href="mailto:tu-correo@ejemplo.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ivanverduzcoholguin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/Ivan Verduzco" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
