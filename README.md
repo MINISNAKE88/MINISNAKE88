@@ -26,10 +26,9 @@
 ### 📊 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
+  <img height="180em" src="https://github-readme-stats-git-main-lftkn.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-main-lftkn.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
 </p>
-
 ---
 
 ### 🎯 Goals for 2026
