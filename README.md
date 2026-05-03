@@ -26,8 +26,7 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
+  <img src="https://metrics.lecoq.io/MINISNAKE88?template=classic&base=header%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=America%2FMexico_City&theme=nord" alt="Metrics" width="100%" />
 </p>
 
 ---
