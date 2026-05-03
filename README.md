@@ -24,10 +24,11 @@
 ---
 ## 📊 My Stats
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&theme=nord&layout=compact&hide_title=false" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
+  <br>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&theme=nord&layout=compact&hide_title=false" />
+</div>
 
 ---
 
