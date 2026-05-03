@@ -25,10 +25,18 @@
 
 ## 📊 My Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord&card_width=450" alt="Top Languages" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=6&theme=nord&card_width=400" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## 🎯 Goals for 2026
