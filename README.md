@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=239120&height=200&section=header&text=MINISNAKE88&fontSize=70&animation=fadeIn&fontAlignY=38&theme=nord" alt="Banner" />
+</p>
+
 # 👋 Hi there! I'm MINISNAKE88
 
 > **Dedicated programming student** focused on building robust and efficient software. I am passionate about breaking down complex concepts and optimizing every line of code.
