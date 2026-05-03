@@ -26,8 +26,8 @@
 ### 📊 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true&v=reset2026" alt="General Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord&v=reset2026" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
 </p>
 
 ---
