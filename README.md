@@ -26,8 +26,8 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
-  <img height="180" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-one-eight.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
+  <img height="180" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Top Languages" />
 </p>
 
 ---
