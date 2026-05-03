@@ -26,8 +26,8 @@
 ### 📊 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true&v=1" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord&v=1" />
 </p>
 
 ---
@@ -40,5 +40,5 @@
 
 ### 📬 Connect with Me
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+<a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
