@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos y Lambdas).
+- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos and Lambdas).
 - 🛠️ Interested in **system optimization** and performance within Windows environments.
 - 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**.
 
@@ -24,16 +24,12 @@
 ### 📊 My Stats
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="Estadísticas Generales" height="195px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Lenguajes más usados" height="195px" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" height="170" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=5&theme=nord" alt="Top Langs" height="170" />
+  </a>
 </p>
 
 ### 🎯 Goals for 2026
