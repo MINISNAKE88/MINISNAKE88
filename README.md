@@ -30,6 +30,7 @@
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&theme=nord&layout=normal&hide_title=false" alt="Top Languages" />
 </p>
 ---
+
 ## 🎯 Goals for 2026
 
 - [ ] Master distributed application development in .NET
