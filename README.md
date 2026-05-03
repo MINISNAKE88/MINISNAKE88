@@ -26,8 +26,8 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
+  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
+  <img height="180" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Top Languages" />
 </p>
 
 ---
