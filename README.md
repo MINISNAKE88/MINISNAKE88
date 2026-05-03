@@ -27,7 +27,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord&card_width=420" alt="Top Languages" />
 </p>
 
 ---
