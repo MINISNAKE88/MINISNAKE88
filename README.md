@@ -30,11 +30,11 @@
     <tr>
       <td align="center" width="50%">
         <h3>📈 GitHub Statistics</h3>
-        <img src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&cc=667eea&ic=fff&oc=667eea&or=667eea&theme=github_dark" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&cc=667eea&ic=fff&oc=667eea&or=667eea" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <h3>💾 Most Used Languages</h3>
-        <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=MINISNAKE88&cc=667eea&ic=fff&oc=667eea&or=667eea&layout=compact" width="100%" alt="Top Languages" />
+        <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=MINISNAKE88&cc=667eea&ic=fff&oc=667eea&or=667eea&layout=compact" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
