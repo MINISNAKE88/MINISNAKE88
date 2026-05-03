@@ -26,8 +26,9 @@
 ### 📊 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Top Languages" />
+  <a href="https://github.com/MINISNAKE88">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&cc=22863a&ic=fff&oc=fff&or=fff" alt="GitHub Stats" />
+  </a>
 </p>
 
 ---
