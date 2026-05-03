@@ -21,16 +21,20 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
----
-
 ### 📊 My Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="Estadísticas Generales" height="195px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" alt="Lenguajes más usados" height="195px" />
+      </td>
+    </tr>
+  </table>
 </p>
-
----
 
 ### 🎯 Goals for 2026
 - [ ] Master distributed application development in .NET.
