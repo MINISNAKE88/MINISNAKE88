@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos y Lambdas).
+- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos and Lambdas).
 - 🛠️ Interested in **system optimization** and performance within Windows environments.
 - 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**.
 
