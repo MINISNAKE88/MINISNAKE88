@@ -1,43 +1,59 @@
-# Hi there! I'm MINISNAKE88 👋 
+# 👋 Hi there! I'm MINISNAKE88
 
 > **Dedicated programming student** focused on building robust and efficient software. I am passionate about breaking down complex concepts and optimizing every line of code.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos and Lambdas).
-- 🛠️ Interested in **system optimization** and performance within Windows environments.
-- 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-</p>
+- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos and Lambdas)
+- 🛠️ Interested in **system optimization** and performance within Windows environments
+- 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**
 
 ---
 
-### 📊 My Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&cc=22863a&ic=fff&oc=fff&or=fff" />
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api/top-langs?username=MINISNAKE88&cc=22863a&ic=fff&oc=fff&or=fff" />
-</p>
-
----
-
-### 🎯 Goals for 2026
-- [ ] Master distributed application development in .NET.
-- [ ] Contribute to Open Source system optimization tools.
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
-### 📬 Connect with Me
+## 📊 My Stats
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📈 GitHub Statistics</h3>
+        <img src="https://github-stats-alpha.vercel.app/api?username=MINISNAKE88&cc=667eea&ic=fff&oc=667eea&or=667eea&theme=github_dark" width="100%" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <h3>💾 Most Used Languages</h3>
+        <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=MINISNAKE88&cc=667eea&ic=fff&oc=667eea&or=667eea&layout=compact" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- [ ] Master distributed application development in .NET
+- [ ] Contribute to Open Source system optimization tools
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ivanverduzcoholguin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
