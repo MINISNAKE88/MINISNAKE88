@@ -1,4 +1,4 @@
-<p style="margin: 20px 0;"><img src="https://example.com/top-languages.png" alt="Top Languages"></p>
+
 # Hi there! I'm MINISNAKE88 👋 
 
 
