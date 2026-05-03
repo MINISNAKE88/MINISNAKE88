@@ -24,13 +24,16 @@
 ### 📊 My Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" height="165" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=6&theme=nord" alt="Top Langs" height="165" />
-  </a>
+  <table align="center">
+    <tr>
+      <td width="400px" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" alt="General Stats" height="185px" />
+      </td>
+      <td width="400px" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=6&theme=nord&card_width=400" alt="Top Languages" height="185px" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 🎯 Goals for 2026
