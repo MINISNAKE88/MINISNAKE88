@@ -26,7 +26,8 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://metrics.lowlighter.ash.id/MINISNAKE88?template=classic&base=header%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=America%2FMexico_City&theme=nord" alt="Metrics" width="100%" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MINISNAKE88&show_icons=true&theme=nord&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MINISNAKE88&layout=compact&langs_count=7&theme=nord" />
 </p>
 
 ---
