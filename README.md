@@ -40,11 +40,11 @@
 
 ## 📬 Connect with Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank">
+<div align="center" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanverduzcoholguin@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
