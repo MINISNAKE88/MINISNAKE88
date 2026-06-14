@@ -1,0 +1,52 @@
+<svg viewBox="0 0 800 100" width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 30px;
+      font-weight: bold;
+      fill: #FFFFFF; /* Blanco puro garantizado */
+    }
+    
+   
+    .reveal-mask {
+      animation: typewriter 4s steps(30) infinite alternate;
+    }
+
+    
+    .cursor {
+      fill: #FFFFFF;
+      animation: typewriter-cursor 4s steps(30) infinite alternate, blink 0.8s infinite;
+    }
+
+    @keyframes typewriter {
+      0% { width: 0; }
+      100% { width: 440px; } /* Ancho exacto del texto */
+    }
+
+    @keyframes typewriter-cursor {
+      0% { x: 180px; } /* Inicio del texto centrado */
+      100% { x: 620px; } /* Fin del texto centrado */
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    
+    <clipPath id="typewriter-clip">
+      <rect x="180" y="0" height="100" class="reveal-mask" />
+    </clipPath>
+  </defs>
+
+
+  <g clip-path="url(#typewriter-clip)">
+    <text x="400" y="60" class="text" style="text-anchor: middle;">Hi there! I'm MINISNAKE88</text>
+  </g>
+  
+  <rect y="33" width="3" height="32" class="cursor" />
+</svg>
+
+
