@@ -4,15 +4,25 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-size: 30px;
       font-weight: bold;
-      fill: #FFFFFF; /* Color blanco */
       animation: typewriter 4s steps(30) infinite alternate;
       white-space: nowrap;
-      border-right: 2px solid #FFFFFF;
+      
+      /* DEFAULT COLOR: LIGHT MODE */
+      fill: #24292e; 
+      border-right: 2px solid #24292e;
     }
 
     @keyframes typewriter {
       0% { width: 0; }
       100% { width: 100%; }
+    }
+
+    /* GITHUB DARK MODE DETECTOR */
+    @media (prefers-color-scheme: dark) {
+      .text {
+        fill: #FFFFFF !important;
+        border-right: 2px solid #FFFFFF !important;
+      }
     }
   </style>
 
@@ -24,3 +34,5 @@
     </foreignObject>
   </g>
 </svg>
+
+
