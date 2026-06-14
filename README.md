@@ -42,7 +42,7 @@
 ## Goals for 2026
 
 - [ ] Master distributed application development in .NET
-- [ ] Contribute to Open Source system optimization tools
+- [ ] Contribute to Open Source projects
 
 ---
 
