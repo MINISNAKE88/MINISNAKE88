@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 -  Currently diving deep into **Advanced C#** (Delegates, Events, and Lambdas)
 -  Interested in **system optimization** and performance within Windows environments
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -38,14 +38,14 @@
 
 ---
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - [ ] Master distributed application development in .NET
 - [ ] Contribute to Open Source system optimization tools
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/ivan-verduzco-7aaa84347" target="_blank"
