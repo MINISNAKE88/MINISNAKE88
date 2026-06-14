@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#gh-dark-mode-only">
-    <img src="images/marquee-dark.svg" alt="Hi there! I'm MINISNAKE88" width="650" />
+    <img src="images/marquee-dark.svg" alt="Hi there! I'm MINISNAKE88" width="800" />
   </a>
   <a href="#gh-light-mode-only">
-    <img src="images/marquee-light.svg" alt="Hi there! I'm MINISNAKE88" width="650" />
+    <img src="images/marquee-light.svg" alt="Hi there! I'm MINISNAKE88" width="800" />
   </a>
 </p>
 
