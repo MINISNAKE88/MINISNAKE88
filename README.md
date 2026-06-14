@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm MINISNAKE88
+<p align="center">
+  <img src="images/marquee.svg" alt="Hi there! I'm MINISNAKE88" width="650" />
+</p>
 
 > **Dedicated programming student** focused on building robust and efficient software. I am passionate about breaking down complex concepts and optimizing every line of code.
 
@@ -6,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Currently diving deep into **Advanced C#** (Delegados, Eventos and Lambdas)
+- 💻 Currently diving deep into **Advanced C#** (Delegates, Events, and Lambdas)
 - 🛠️ Interested in **system optimization** and performance within Windows environments
 - 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**
 
