@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFtamR4d2F1aHZmOG9iMzZqcHloczZpMnNhOTFseHFvY3FuOThudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BsPm1tMBLoyTm/giphy.gif" width="50" align="center" /> About Me
 
 -  Currently diving deep into **Advanced C#** (Delegates, Events, and Lambdas)
 -  Interested in **system optimization** and performance within Windows environments
