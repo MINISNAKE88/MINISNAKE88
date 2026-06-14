@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/marquee.svg" alt="Hi there! I'm MINISNAKE88" width="650" />
+  <img src="images/marquee.svg" alt="Hi there! I'm MINISNAKE88" width="1000" />
 </p>
 
 > **Dedicated programming student** focused on building robust and efficient software. I am passionate about breaking down complex concepts and optimizing every line of code.
