@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-- 💻 Currently diving deep into **Advanced C#** (Delegates, Events, and Lambdas)
-- 🛠️ Interested in **system optimization** and performance within Windows environments
-- 🎮 Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**
+-  Currently diving deep into **Advanced C#** (Delegates, Events, and Lambdas)
+-  Interested in **system optimization** and performance within Windows environments
+-  Fan of tactical challenges in **Roguelikes** and exploration in **Metroidvanias**
 
 ---
 
