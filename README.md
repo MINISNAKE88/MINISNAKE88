@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="images/marquee.svg" alt="Hi there! I'm MINISNAKE88" width="1000" />
+  <a href="#gh-dark-mode-only">
+    <img src="images/marquee-dark.svg" alt="Hi there! I'm MINISNAKE88" width="650" />
+  </a>
+  <a href="#gh-light-mode-only">
+    <img src="images/marquee-light.svg" alt="Hi there! I'm MINISNAKE88" width="650" />
+  </a>
 </p>
 
 > **Dedicated programming student** focused on building robust and efficient software. I am passionate about breaking down complex concepts and optimizing every line of code.
